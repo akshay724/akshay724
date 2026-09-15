@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/good-cry-smooth-HqKEbtYoEzC2am7Sxk">
+
 # 💫 Hi 👋, I'm Akshay Dey
 **A Data Science student  ||**
 
