@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="AWS Community Builder" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQ1d2J6M2FrNTc4aWJraTE4M3BwY3lzZGRzeG15am1yYXBiYXdlOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IgtOuXZ6dnuTu/giphy.gif" />
+<img width="1200" height="420" alt="akshay_dey_banner_original_photo" src="https://github.com/user-attachments/assets/f80a0ed6-1bfa-4aec-b1d9-ad2008c39624" />
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhxc3Bnc290ZjFvaWN2NmVxNW93OTY1bjYyemhoM29nazRrb2djdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OlCIZsHLL4GxbrdRT8/giphy.gif">
 
 
