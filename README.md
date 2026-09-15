@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhxc3Bnc290ZjFvaWN2NmVxNW93OTY1bjYyemhoM29nazRrb2djdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OlCIZsHLL4GxbrdRT8/giphy.gif">
 
 # 💫 Hi 👋, I'm Akshay Dey
-**A Data Science student  ||**
+**A Data Science student  **
 
 Email Me 👉 ✉️ ** akshay05dey@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
 
